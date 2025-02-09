@@ -7,6 +7,7 @@ namespace Tyuiu.PlesovskikhBA.Sprint2.Task0.V22
     internal class Program
     {
         static void Main(string[] args)
+        
         {
             DataService ds = new DataService();
             int x = 3105;
